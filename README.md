@@ -17,7 +17,8 @@ JARVIS is an intelligent virtual assistant designed to automate tasks. The proje
 
 ## 🛠️ Tech Stack
 
-- **Language:** Python / JavaScript *(modify as needed)*
+- **Language:** Python , JavaScript **
+- **Frameworks:** Textillate , BootStrap, Tailwind**
 - **Speech Recognition:** SpeechRecognition 
 - **Text-to-Speech:** pyttsx3 
 - **Backend:** Python
