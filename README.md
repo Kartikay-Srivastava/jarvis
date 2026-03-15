@@ -1,6 +1,6 @@
-# JARVISH 🤖
+# JARVIS 🤖
 
-JARVISH is an intelligent virtual assistant designed to automate tasks. The project aims to replicate the functionality of a smart AI assistant capable of voice interaction.
+JARVIS is an intelligent virtual assistant designed to automate tasks. The project aims to replicate the functionality of a smart AI assistant capable of voice interaction.
 
 ---
 
